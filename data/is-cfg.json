@@ -1,5 +1,5 @@
 {
-	"callsign": "NOCALL-10",
+	"callsign": "Ti0tec5-7",
 	"network": {
 		"DHCP": true,
 		"static": {
@@ -11,20 +11,20 @@
 		},
 		"hostname": {
 			"overwrite": false,
-			"name": "NOCALL-10"
+			"name": "Ti0tec5-7"
 		}
 	},
 	"wifi": {
 		"active": true,
 		"AP": [
 			{
-				"SSID": "YOURSSID",
-				"password": "YOURPASSWORD"
+				"SSID": "Ubnt1_Casa_4",
+				"password": "cartago4"
 			}
 		]
 	},
 	"beacon": {
-		"message": "LoRa iGATE & Digi, Info: github.com/lora-aprs/LoRa_APRS_iGate",
+		"message": "LoRa iGATE Brainer",
 		"position": {
 			"latitude": 0.000000,
 			"longitude": 0.000000
@@ -35,8 +35,8 @@
 	},
 	"aprs_is": {
 		"active": true,
-		"passcode": "",
-		"server": "euro.aprs2.net",
+		"passcode": "26556",
+		"server": "noam.aprs2.net",
 		"port": 14580,
 		"filter": ""
 	},
